@@ -1,6 +1,5 @@
 -- *************************************************************
--- This script only creates the AP (Accounts Payable) database
--- for Murach's MySQL 3rd Edition by Joel Murach 
+-- This script only creates the an example AP (Accounts Payable) database
 -- *************************************************************
 
 -- create the database
